@@ -1,0 +1,3 @@
+cmd="go build -o ./bin/app"
+bin="./bin/app"
+include_ext=["go"]
